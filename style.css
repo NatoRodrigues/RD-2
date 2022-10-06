@@ -11,7 +11,7 @@
 	padding-left: 10px;
     padding-right: 10px;
 	list-style: none;
-    background: url(/PI/img/Line\ 4.png) left no-repeat;
+    background: url(/Line\ 4.png) left no-repeat;
     background-position:left;
 	background-size: 1px 15px;
 }
@@ -117,7 +117,7 @@ img{
 
 #div-img{
 	background: rgb(27,9,0);
-	background: linear-gradient(90deg, rgba(27,9,0,0.6118909477853641) 0%, rgba(0,0,0,0.754748090642507) 61%, rgba(0,0,0,0.7379413679534313) 69%, rgba(0,0,0,0.5978853455444677) 94%, rgba(0,0,0,1) 100%), url(/PI/img/crawler-dozers_j-ii_2.jpg) no-repeat  center;
+	background: linear-gradient(90deg, rgba(27,9,0,0.6118909477853641) 0%, rgba(0,0,0,0.754748090642507) 61%, rgba(0,0,0,0.7379413679534313) 69%, rgba(0,0,0,0.5978853455444677) 94%, rgba(0,0,0,1) 100%), url(/crawler-dozers_j-ii_2.jpg) no-repeat  center;
 	background-size: 100% 180%;
 }
 
@@ -130,7 +130,7 @@ html{
 	}
 	#div-img{
 		background: rgb(27,9,0);
-		background: linear-gradient(90deg, rgba(27,9,0,0.6118909477853641) 0%, rgba(0,0,0,0.754748090642507) 61%, rgba(0,0,0,0.7379413679534313) 69%, rgba(0,0,0,0.5978853455444677) 94%, rgba(0,0,0,1) 100%), url(/PI/img/crawler-dozers_j-ii_2.jpg) no-repeat center;
+		background: linear-gradient(90deg, rgba(27,9,0,0.6118909477853641) 0%, rgba(0,0,0,0.754748090642507) 61%, rgba(0,0,0,0.7379413679534313) 69%, rgba(0,0,0,0.5978853455444677) 94%, rgba(0,0,0,1) 100%), url(/crawler-dozers_j-ii_2.jpg) no-repeat center;
 		height: 120px;
 		width: 760px;
 	}
@@ -171,7 +171,7 @@ html{
 	#logo{width:200px; height: 190px; position: left;}
 	#div-img{
 		height: 190px;
-		width: 1290px;
+		width: 1720px;
 		background-position: center;	
 	}
 }
